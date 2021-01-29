@@ -12,8 +12,8 @@ There are 4 main components to print that are split into sections for printing o
     Back (2 sections)
     Circuit Mount
     Cable Management
-
-<b>Components Used:</b>
+<br>
+<b>Components Used:</b><br>
     <b>LED:</b> T1 3/4 5MM Red LED
     <b>Pushbutton Switches:</b> KD2-22  https://www.amazon.com/gp/product/B07CXN14QV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1<br>
     <b>Rotary Encoder:</b> https://www.amazon.com/gp/product/B07DM2YMT4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1<br>
