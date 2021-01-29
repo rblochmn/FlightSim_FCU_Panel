@@ -1,6 +1,8 @@
 # FlightSim_FCU_Panel
 FCU panel for Flight Simulator loosely based on the A320 design
 
+<img src="https://raw.githubusercontent.com/rblochmn/FlightSim_FCU_Panel/master/Front_view_small.jpg"></img>
+
 These files were all designed to be printed with a dual extractor printer, the text items are all separate files.  As long as you are using a supported slicer, they should all line up when you import them.
 
 If you would like to modify the design or combine sections for a larger printer, the Fusion360 export file is included.
@@ -13,9 +15,9 @@ There are 4 main components to print that are split into sections for printing o
 
 Components Used:
     LED: T1 3/4 5MM Red LED
-    Pushbutton Switches: KD2-22  https://www.amazon.com/gp/product/B07CXN14QV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-    Rotary Encoder: https://www.amazon.com/gp/product/B07DM2YMT4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-    LED Modules: MAX7219 - https://www.amazon.com/gp/product/B07CL2YNJQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-    Screws and Nuts: M4 Metric thread machine screws, 4-24x1/4" Pan head sheet metal for LED module mounts and #4x1/2 sheet metal screws to mount circuit board and wire management
+    Pushbutton Switches: KD2-22  https://www.amazon.com/gp/product/B07CXN14QV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1<br>
+    Rotary Encoder: https://www.amazon.com/gp/product/B07DM2YMT4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1<br>
+    LED Modules: MAX7219 - https://www.amazon.com/gp/product/B07CL2YNJQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1<br>
+    Screws and Nuts: M4 Metric thread machine screws, 4-24x1/4" Pan head sheet metal for LED module mounts and #4x1/2 sheet metal screws to mount circuit board and wire management<br>
 
 
